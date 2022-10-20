@@ -19,6 +19,8 @@ Następnie cały folder o nazwie "zatwierdz" gdzie dokladna lokalizacja to [nazw
 
 2. Node.js
 
+Potrzebny jest do tego, aby uruchomić projekt Reactowy
+
 Do instalowania Node.js proszę napisać wejść na taki link
 
 https://nodejs.org/dist/v16.18.0/node-v16.18.0-x64.msi
@@ -26,6 +28,9 @@ https://nodejs.org/dist/v16.18.0/node-v16.18.0-x64.msi
 Instalujemy wszystko domyślnie na naszym lokalnym komputerze
 
 3. Visual Studio Code
+
+To jest specjalne środowisko, które umożliwia tworzenie kodu projektu, ale i również uruchomienia polecen w specjalnym przeznaczonym do tego terminalu. 
+Aby uruchomić projekt należy w lokalizacji głównej projektu czyli "zadanie-php-rekrutacja" napisać komendę "npm start".
 
 Zalecam zainstalowanie tego środowiska przy użyciu tego linku
 
