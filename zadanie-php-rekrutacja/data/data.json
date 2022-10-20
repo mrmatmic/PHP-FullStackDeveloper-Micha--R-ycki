@@ -1,0 +1,11 @@
+{
+    "uzytkownicy":
+    [
+        {
+            "imie":"Michał",
+            "nazwisko" : "Różycki",
+            "email" : "michal.jan.rozycki@gmail.com",
+            "opis": "nic"
+        }
+    ]
+}
